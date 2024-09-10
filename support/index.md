@@ -4,6 +4,6 @@
 
 | Steg 1   | Steg 2 | Steg 3 |
 | -------- | ------- | ------- |
-| 1 | 2   | 3 |
+| ![Alt text](/images/settings.jpg) | 2   | 3 |
 
 ### Gå med i annan familj ###
