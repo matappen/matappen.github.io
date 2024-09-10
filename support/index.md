@@ -1,10 +1,6 @@
 ## Kom igång med MatAppen ##
 
-### Bjud in andra till din familj ###
-
-
-
-### Gå med i annan familj ###
+### Bjud in andra till din familj eller gå med i annan familj ###
 
 | Steg 1   | Steg 2 | Steg 3 |
 | -------- | ------- | ------- |
