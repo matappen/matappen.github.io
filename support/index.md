@@ -2,4 +2,8 @@
 
 ### Bjud in andra till din familj ###
 
+| Steg 1   | Steg 2 | Steg 3 |
+| -------- | ------- | ------- |
+| 1 | 2   | 3 |
+
 ### Gå med i annan familj ###
